@@ -1,0 +1,21 @@
+.p1 {
+  font-size: 18px;
+  background-color: orange;
+  font-family: "Times New Roman", verdana, sans-serif;
+}
+.p2 {
+  font-size: 20px;
+  color: white;
+  background-color: blue;
+}
+.p3 {
+  font-size: 30px;
+  font-family: monospace;
+}
+.p4 {
+  font-size: 40px;
+  font-weight: bold;
+  background-color: #8f8282;
+  font-family: "Times New Roman"
+
+}
